@@ -1,19 +1,13 @@
-# pet_app
+# Pet Adoption App
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Overview
 
-## Getting Started
+Pet Adoption App is a mobile application built with Flutter that facilitates the adoption of pets. It provides a user-friendly interface for users to browse and adopt pets, as well as view details about each pet.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- **Browse Pets:** Explore a list of available pets with their images and basic information.
+- **Pet Details:** View detailed information about each pet, including images, age, species, and more.
+- **Adoption Process:** Users can express their interest in adopting a pet and confirm the adoption through the app.
+- **Adoption Status:** Adopted pets are marked as such, and their availability status is updated.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
